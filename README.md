@@ -40,7 +40,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/UndertakerAI/ping-pong
-cd ping-pong
+cd ping-pong/src
 ```
 Build:
 
