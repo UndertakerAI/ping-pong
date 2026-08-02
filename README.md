@@ -50,7 +50,7 @@ gcc pong.c -o pong
 ```
 Interactive Play:
 ```bash
-gcc pong\_interactive.c -o pong -lncurses
+gcc pong_interactive.c -o pong -lncurses
 ```
 
 Run:
