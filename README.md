@@ -22,6 +22,22 @@ A classic Pong game written in C. Two players control paddles and try to score p
 - Faster and smoother gameplay
 - Feels more like the original arcade game
 
+## Requirements
+- GCC (GNU Compiler Collection)
+## Interactive play requirements
+- ncurses library
+- Terminal with ncurses support (Linux, macOS, WSL)
+
+## Installing dependencies
+Ubuntu/Debian:
+```bash
+sudo apt-get install libncurses5-dev libncursesw5-dev
+```
+macOS:
+```bash
+brew install ncurses
+```
+
 ## Controls
 
 ### Player 1 (left paddle)
